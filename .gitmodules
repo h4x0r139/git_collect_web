@@ -1,0 +1,6 @@
+[submodule "mall-learning"]
+	path = mall-learning
+	url = git@github.com:macrozheng/mall-learning.git
+[submodule "mall"]
+	path = mall
+	url = git@github.com:macrozheng/mall.git
