@@ -4,3 +4,9 @@
 [submodule "mall"]
 	path = mall
 	url = git@github.com:macrozheng/mall.git
+[submodule "fast_web/eagle"]
+	path = fast_web/eagle
+	url = git@github.com:go-eagle/eagle.git
+[submodule "music_website"]
+	path = music_website
+	url = git@github.com:Yin-Hongwei/music-website.git
